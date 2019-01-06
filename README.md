@@ -3,10 +3,15 @@
 tadam
 
 
-commandes utiles :
+# commandes utiles :
+## Pour mettre en ligne :
 
 git add -A
 
 git commit -m "nom du commit"
 
 git push
+
+## Pour mettre à jour en local
+
+git pull
